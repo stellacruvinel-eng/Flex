@@ -1,0 +1,12 @@
+img{
+    border: 30px solid black;
+    border-radius:500px ;
+    height: 200px;
+    width: 200px;
+}
+.main
+{
+display:flex;
+justify-content: space-around;
+align-items:center ;
+}
